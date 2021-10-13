@@ -1,0 +1,31 @@
+h1{
+    color: maroon;
+    background-color: gold;
+    text-align: center;
+    text-decoration-style: solid;
+    text-underline-position: below;
+}
+
+h2{
+    color: blue;
+    text-underline-position: below;
+    text-align: center;
+
+}
+.topic{
+    color:rgb(108, 37, 179);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: gainsboro;
+}
+
+.regform{
+    text-align: center;
+    border: 1px solid black;
+    width: 400px;
+    padding: 15px 12px 15px 15px;
+    margin: auto;
+}
